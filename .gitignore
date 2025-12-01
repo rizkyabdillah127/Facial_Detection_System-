@@ -23,13 +23,6 @@ venv/
 .streamlit/
 logs/
 
-# ============================================
-# Model files (jangan upload model)
-# ============================================
-model/
-*.pth
-*.pt
-*.h5
 
 # ============================================
 # Dataset atau gambar training

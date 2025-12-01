@@ -1,4 +1,6 @@
-# streamlit
-# pillow
-# numpy
-# (nanti tambahkan: tensorflow / pytorch sesuai model teman Anda)
+torch
+torchvision
+opencv-python-headless
+numpy
+pillow
+streamlit
